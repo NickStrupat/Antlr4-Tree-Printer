@@ -1,0 +1,8 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/projectSettingsUpdater.xml
+/.idea.Antlr4-Tree-Printer.iml
+/modules.xml
+/contentModel.xml
